@@ -1,7 +1,7 @@
 ## Fala lindeza! Eu sou o Vinicius
 
  - 🔭 Hoje trabalho com .lua e Design
- - 🌱 Estudando ADM
+ - 🌱 Formado em ADM
  - 😄 Pronouns: Helicóptero/JDM
 
   
